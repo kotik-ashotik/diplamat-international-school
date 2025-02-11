@@ -1,0 +1,1 @@
+# diplamat-international-school
