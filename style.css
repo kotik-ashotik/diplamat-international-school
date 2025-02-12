@@ -1,0 +1,30 @@
+div {
+    width: 700px;
+    background-color: blue;
+    border: 5px solid rgb(0, 157, 255);
+    margin: auto;
+    padding-left: 5px;
+    img {
+        width: 100%;
+    }
+    h1,
+    p {
+        color: rgb(0, 221, 255);
+    }
+}
+
+body {
+    background-color: #fff;
+}
+
+h1 {
+    padding-left: 100px;
+}
+
+a {
+    color: #fff;
+    background-color: rgb(0, 255, 238);
+    padding: 10px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
